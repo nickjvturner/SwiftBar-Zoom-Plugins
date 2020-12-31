@@ -6,3 +6,5 @@ Video State: 'No Video' or 'Live Video'
 Screenshare State: '' or Screenshare active'
 
 Displayed in the menubar.
+
+The majority the AppleScript code came from other people!
